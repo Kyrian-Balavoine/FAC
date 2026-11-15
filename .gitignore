@@ -13,6 +13,7 @@ L2 Info/POO/projet-poo
 test/
 **/**/venv
 
+
 .build
 .gradle
 .idea
@@ -27,3 +28,4 @@ L1 Info/
 L1 Info/Init dev/video-tracker/
 L2 Info/
 L3 Info/
+L2 Info/POO/projet-poo
